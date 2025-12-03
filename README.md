@@ -7,3 +7,4 @@ This repository contains all tasks completed during my Software Development Inte
 ### Level 1: Beginner
 - Task 1: Text-based game using conditional logic
 - Task 2: Number pattern generator using loops
+- Task 3: Bus-Ticket booking system using arraylist
